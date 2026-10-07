@@ -2,9 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-# Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
-# See: https://github.com/github/gitignore/tree/main/Global
-#
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -46,7 +43,6 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
-*.slnx
 *.suo
 *.tmp
 *.user
@@ -102,8 +98,22 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-# UI Toolkit auto generated files
-/UIElementsSchema/
-
-# Auto-generated cache in Assets folder
-/[Aa]ssets/[Ss]ceneDependencyCache*
+ATeam_Project3/.vsconfig
+ATeam_Project3/Assembly-CSharp.csproj
+ATeam_Project3/ATeam_Project3.sln
+ATeam_Project3/.vs/ATeam_Project3/project-colors.json
+ATeam_Project3/.vs/ATeam_Project3/FileContentIndex/21a49f47-2ded-48a7-a9e2-4ac272791f4b.vsidx
+ATeam_Project3/.vs/ATeam_Project3/FileContentIndex/3cc17768-ab6e-4024-ab1f-c82331dacd29.vsidx
+ATeam_Project3/.vs/ATeam_Project3/FileContentIndex/8b6e8ab7-f393-4218-aab4-5c131ac8137e.vsidx
+ATeam_Project3/.vs/ATeam_Project3/FileContentIndex/a0396cc7-b37b-474e-a7eb-920b88d6ca16.vsidx
+ATeam_Project3/.vs/ATeam_Project3/FileContentIndex/read.lock
+ATeam_Project3/.vs/ATeam_Project3/v17/.suo
+ATeam_Project3/Logs
+ATeam_Project3/UserSettings
+*.sln
+*.suo
+ATeam_Project3/Temp
+ATeam_Project3/.vs
+ATeam_Project3/Assets/TextMesh Pro
+ATeam_Project3/Library
+ATeam_Project3/obj
